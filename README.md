@@ -1,2 +1,13 @@
 # DSA-In-Java
-A structured repository documenting my Java and Data Structures &amp; Algorithm learning journey through code, notes and practice problems 
+This repository documents my journey of learning Java and Data Structures & Alogorithms.
+
+# Learning Goals
+- Build strong Java fundamentals 
+- Master Data Structures and Algorithms 
+- Write Clean, organized code
+- Track Daily progresses through GitHub
+
+## Repository Structure
+01 - Java-Basics
+- [] First java Program
+
