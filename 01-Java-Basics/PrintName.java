@@ -1,0 +1,7 @@
+// A simple Java program to print your name
+public class PrintName {
+    public static void main(String[] args) {
+        // Replace "Your Name" with your actual name
+        System.out.println("Prithviraj Sandeep Aute");
+    }
+}
