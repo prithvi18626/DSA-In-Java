@@ -1,5 +1,5 @@
 # DSA-In-Java
-This repository documents my journey of learning Java and Data Structures & Alogorithms.
+This repository documents my journey of learning Java and Data Structures & Algorithms.
 
 # Learning Goals
 - Build strong Java fundamentals 
