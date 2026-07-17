@@ -1,49 +1,26 @@
-public class ImplicitTypeCasting {
-  public static void main(String[] args){
-
-    int age = 20;
-    double studentAge = age;
-
-    System.out.println(age);
-    System.out.println(studentAge);
-
-    byte attendance = 95;
-    short totalAttendance;
-    int yearlyAttendance;
-    long completeAttendance;
-    float attendancePercentage;
-    double finalAttendance;
-
-    totalAttendance =attendance;
-    System.out.println(totalAttendance);
-
-    yearlyAttendance = totalAttendance;
-    System.out.println(yearlyAttendance);
-
-    completeAttendance = yearlyAttendance;
-    System.out.println(completeAttendance);
-
-    attendancePercentage = completeAttendance;
-    System.out.println(attendancePercentage);
-
-    finalAttendance = attendancePercentage;
-    System.out.println(finalAttendance);
-    
-
-    char grade = 'A';
-    int score = grade;
-
-    System.out.println(grade);
-    System.out.println(score);
+    // double price = 499.99;
+    // int finalPrice = (int)price;
+    // System.out.println(price);
+    // System.out.println (finalPrice);
 
 
-    int number = 65;
+    // double price1 = 125.99;
+    // int finalPrice1 = (int)price1;
+    // System.out.println(price1);
+    // System.out.println(finalPrice1);
 
-    int marks = 95;
-    double result = marks;
-    marks = -15;
-    marks = 0;
-    marks = 2147483647;
-    
-  }
-}
+
+    // double price2 =125.01;
+    // int finalPrice2 = (int)price2;
+    // System.out.println(price2);
+    // System.out.println(finalPrice2);
+
+    // double price3 =125.50;
+    // int finalPrice3 = (int)price3;
+    // System.out.println(price3);
+    // System.out.println(finalPrice3);
+
+    // double price4 = 125.00;
+    // int finalprice4 = (int) price4;
+    // System.out.println(price4);
+    // System.out.println(finalprice4);
