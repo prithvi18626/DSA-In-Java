@@ -1,26 +1,23 @@
-    // double price = 499.99;
-    // int finalPrice = (int)price;
-    // System.out.println(price);
-    // System.out.println (finalPrice);
+    // int distance = 1000;
+    // System.out.println(distance);
 
+    // double distance1 = distance;
+    // System.out.println(distance1);  //This conversion is automatic besacuse it lies under implicit conversion 
 
-    // double price1 = 125.99;
-    // int finalPrice1 = (int)price1;
-    // System.out.println(price1);
-    // System.out.println(finalPrice1);
+    // double temprature = 33.33;
+    // System.out.println(temprature);
 
+    // int temprature1 = (int) temprature;
+    // System.out.println(temprature1);  // info after the decimal point is lost
 
-    // double price2 =125.01;
-    // int finalPrice2 = (int)price2;
-    // System.out.println(price2);
-    // System.out.println(finalPrice2);
+    // int num1 = 65;
+    // int num2 = 90;
+    // int num3 = 97;
+    // int num4 = 122;
+    // System.out.println(num1 + " " + num2 + " " + num3 + " " + num4);
 
-    // double price3 =125.50;
-    // int finalPrice3 = (int)price3;
-    // System.out.println(price3);
-    // System.out.println(finalPrice3);
-
-    // double price4 = 125.00;
-    // int finalprice4 = (int) price4;
-    // System.out.println(price4);
-    // System.out.println(finalprice4);
+    // char letter1 = (char) num1;
+    // char letter2 = (char) num2;
+    // char letter3 = (char) num3;
+    // char letter4 = (char) num4;
+    // System.out.println(letter1 + " " + letter2 + " " + letter3 + " " + letter4);
