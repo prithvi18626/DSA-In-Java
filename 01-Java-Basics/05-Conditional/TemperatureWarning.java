@@ -12,5 +12,7 @@ public class TemperatureWarning {
 
   int wholeTemperature = (int) temperature;
   System.out.println(wholeTemperature);
+  
+  scanner.close();
  } 
 }

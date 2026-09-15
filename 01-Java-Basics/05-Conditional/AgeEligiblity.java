@@ -10,6 +10,8 @@ public class AgeEligiblity {
 
     if (age >= 18)
       System.out.println("An Adult");
+
+    scanner.close();  //must close the scanner class
     
   }
 }
