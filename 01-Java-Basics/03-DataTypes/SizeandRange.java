@@ -1,7 +1,7 @@
 public class SizeandRange {
   public static void main(String[] args){
 
-    System.out.println("Byte");
+        System.out.println("Byte");
     System.out.println("Size: " + Byte.BYTES + " bytes");
     System.out.println("Range: " +Byte.MIN_VALUE + " to " + Byte.MAX_VALUE);
     System.out.println();
