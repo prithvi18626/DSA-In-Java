@@ -13,10 +13,20 @@ public class LoginValidator {
     System.out.println("Enter password");
     int password = scanner.nextInt();
 
-    if(userName == correctUserName){
-      if(password = correctPassword){
+    int counter = 0;
 
+    if(userName == correctUserName){  /*== compares whether two String references point to the same object.*/
+      counter++;                      /*.equals() compares the actual text/content. */
+    }
+    if(password == correctPassword){
+      counter++;
+    }
+    if(counter == 2){
+      System.out.println("Login Successful");
+    }
+    else
+      System.out.println("Invalid credentials");
       }
     } 
-  }
-}
+
+
