@@ -1,4 +1,3 @@
-import java.rmi.server.SocketSecurityException;
 import java.util.Scanner;
 
 public class StudentPerformance {
@@ -24,19 +23,19 @@ public class StudentPerformance {
     double average = total / 3;
     System.out.println("Average: "+average);
 
-    if(total >= 75){
+    if(average >= 75){
       System.out.println("Distinction");
 
     }
-    else if(total >= 60){
+    else if(average >= 60){
       System.out.println("First Class");
 
     }
-    else if(total >= 50){
+    else if(average >= 50){
       System.out.println("Second Class");
 
     }
-    else if(total >= 40){
+    else if(average >= 40){
       System.out.println("Pass");
 
     }
@@ -56,6 +55,8 @@ public class StudentPerformance {
      if(counter == 3){
       System.out.println("The student passed all three subject");
      }
+     else
+      System.out.println("The student did not passed all three subject");
 
   }
 }
