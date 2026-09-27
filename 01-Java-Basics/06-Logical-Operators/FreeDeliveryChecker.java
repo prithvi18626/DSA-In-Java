@@ -18,6 +18,6 @@ public class FreeDeliveryChecker {
             System.out.println("Delivery charges applicable.");
         }
 
-        scanner.close();
+        
     }
 }
