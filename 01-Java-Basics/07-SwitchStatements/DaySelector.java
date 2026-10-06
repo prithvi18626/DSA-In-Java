@@ -4,7 +4,7 @@ public class DaySelector {
   
     Scanner scanner = new Scanner(System.in);
 
-    System.out.println("Enter a number form 1 to 7 ");
+    System.out.println("Enter a number from 1 to 7 ");
     int day = scanner.nextInt();
 
     switch(day){
