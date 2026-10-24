@@ -15,6 +15,7 @@ public class Factorial {
       fact = n * fact;
 
       n--;
+      
 
     }
 
